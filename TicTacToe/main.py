@@ -33,7 +33,7 @@ def player_turn():
     # Input
     choice = int(input("Choose where to play (1-9): ")) - 1
     while not(spot_available(choice)):
-        choice = int(input("Choose another spot (1-9): ")) - 1
+        choice = int(input("\nChoose another spot (1-9): ")) - 1
     # Changing board
     board[choice] = "X"
 
