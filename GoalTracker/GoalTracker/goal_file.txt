@@ -1,0 +1,6 @@
+PHIL Assignment,Nov 15 - 11:59PM,0
+CISC Quiz,Nov 16 - 11:30PM,0
+CISC Assignment,Nov 18 - 11:30PM,0
+ASTR Quiz,Nov 18 - 3:30PM,0
+ASTR Virtual Lab,Nov 19 - 3:30PM,0
+MATH Webwork,Nov 19 - 6:00PM,0
